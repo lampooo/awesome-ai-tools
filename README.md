@@ -12,6 +12,7 @@ A curated list of Awesome AI Tools
 - [Google Veo](https://deepmind.google/technologies/veo) - DeepMind's video model featuring native audio synthesis including dialogue and sound effects.
 - [Hailuo AI](https://hailuoai.video) - Versatile video platform by MiniMax with text-to-speech, image generation, and voice cloning.
 - [Vidu](https://vidu.io) - Chinese AI video tool supporting 4K output with multi-subject consistency from up to 7 reference images.
+- [videos.social](https://videos.social/?utm_source=lampooo-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos.
 
 ## AI Video Editing
 *AI tools for enhancing and editing existing videos.*
